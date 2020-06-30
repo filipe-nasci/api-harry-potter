@@ -1,2 +1,2 @@
 # api-harry-potter
-api permite consultar todos os personagens do universo harry potter, retorna algumas informações sobre o personagem pesquisado como tipo de sangue, casa, tipo de varinha e patrono.
+api permite consultar qual é sua casa em Hogwarts. A API traz de forma aleatória uma casa de hogwarts. 
